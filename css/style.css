@@ -157,3 +157,23 @@ hr{
       width:40%;
       margin: 40px auto 60px;
   }
+
+  .greeting{
+      position: absolute;
+      top:380px;
+      left:300px;
+      width:70px;
+  }
+
+  .TY{
+      position: relative;
+      top:105px;
+      left:650px;
+      width:80px;
+  }
+
+  .naruto{
+      position:absolute;
+      left:100px;
+      width:50px;
+  }
